@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "一个在别处的Java程序员"
+sidebar-about-description: "一个在别处的 Java 程序员 <br> "
 sidebar-avatar: https://github.com/zaielsewhere.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
