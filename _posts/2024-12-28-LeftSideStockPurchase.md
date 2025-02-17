@@ -7,7 +7,7 @@ author: 	"Elsewhere"
 header-style: text
 tags:
     - 股票
-    - 操作工具
+    - 操作策略
 ---
 
 > 这是一篇关于如在股票下跌时进行左侧建仓，如何规避风险。
