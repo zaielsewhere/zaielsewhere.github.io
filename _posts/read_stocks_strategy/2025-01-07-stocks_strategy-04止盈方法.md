@@ -7,7 +7,7 @@ author: 	"Elsewhere"
 header-style: text
 tags:
     - 股票
-    - 操作策略
+    - 策略
 ---
 
 > 如何进行止盈，有哪些策略?
