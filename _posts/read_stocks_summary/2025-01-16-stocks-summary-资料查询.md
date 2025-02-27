@@ -17,7 +17,7 @@ tags:
 
 - [morningstar个股历史数据比较](https://www.morningstar.com/stocks/xnas/aapl/valuation)
 
-
+- [SPY500期货查询](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)
 
 
 
