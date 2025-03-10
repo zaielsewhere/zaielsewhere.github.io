@@ -7,6 +7,7 @@ header-style: text
 tags:
     - 股票
     - 策略
+    - ETF
 ---
 
 > 斐波那契指标有什么用？

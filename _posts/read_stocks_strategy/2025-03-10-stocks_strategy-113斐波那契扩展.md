@@ -7,6 +7,7 @@ header-style: text
 tags:
     - 股票
     - 策略
+    - ETF
 ---
 
 > 辅助买卖点支撑压力指标

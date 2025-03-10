@@ -7,6 +7,7 @@ header-style: text
 tags:
     - 股票 
     - 总结
+    - ETF
 ---
 
 > 基金购买策略

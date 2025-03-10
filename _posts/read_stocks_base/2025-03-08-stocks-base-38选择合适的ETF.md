@@ -7,6 +7,7 @@ header-style: text
 tags:
     - 股票 
     - 基本认知
+    - ETF
 ---
 
 > - 如何选择适合自己的ETF?
