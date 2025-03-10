@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title: 		"如何知道股票贵还是便宜"
+title: 		"如何知道股票贵还是便宜-ERP"
 date:       2025-3-10
 author: 	"Elsewhere"
 header-style: text
@@ -14,6 +14,12 @@ tags:
 > 不会估值怎么办？
 > 如何知道股票贵还是便宜
 > 机构何时会抢购？
+
+
+
+## ERP
+
+- **股权风险溢价ERP(equity risk premium)**是指市**场投资组合**与**无风险收益率**的**差额**。
 
 
 

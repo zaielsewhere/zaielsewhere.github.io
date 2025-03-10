@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title: 		"基金购买策略"
+title: 		"仓位分配及宏观分析"
 date:       2025-3-8
 author: 	"Elsewhere"
 header-style: text
@@ -10,7 +10,7 @@ tags:
     - ETF
 ---
 
-> 基金购买策略
+> 仓位分配及宏观分析
 
 
 
