@@ -6,6 +6,7 @@ author: 	"Elsewhere"
 header-style: text
 tags:
     - 股票 
+    - 基本认知
     - 估值体系
     - ETF
     
