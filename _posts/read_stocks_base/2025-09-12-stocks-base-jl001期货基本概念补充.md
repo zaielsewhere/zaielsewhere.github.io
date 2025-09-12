@@ -1,3 +1,19 @@
+---
+layout: 	post
+title: 		"期货基本概念"
+date:       2025-9-12
+author: 	"Elsewhere"
+header-style: text
+tags:
+    - 股票 
+    - 基本认知
+    - 期货
+    
+---
+
+
+
+
 #### 一、股票做空的原理
 
 做空（Short Selling）是金融市场中一种通过价格下跌获利的交易策略，其核心逻辑是**“高卖低买”的逆向操作**，具体原理如下：
